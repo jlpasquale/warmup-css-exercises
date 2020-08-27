@@ -1,0 +1,40 @@
+.div1 {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+
+.div2 {
+  position: absolute;
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  left: 125px;
+}
+
+.div3 {
+  position: absolute;
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  top: 125px;
+}
+
+.div4 {
+  position: absolute;
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  left: 125px;
+  top: 125px;
+}
+
+.div5 {
+  position: absolute;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  left: 70px;
+  top: 75px;
+}
